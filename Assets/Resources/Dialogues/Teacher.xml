@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dialogue>
+  <DialogueLine speaker="npc">
+    <text>Я буду с тобой говорить, только если правильно ответишь на один вопрос.</text>
+  </DialogueLine>
+  <DialogueLine speaker="npc">
+    <text>Нравится Wordpress?</text>
+  </DialogueLine>
+  <DialogueLine speaker="player">
+    <text>Нет</text>
+  </DialogueLine>
+  <DialogueLine speaker="npc">
+    <text>Я ценю таких студентов</text>
+  </DialogueLine>
+  <DialogueLine speaker="npc">
+    <text>Я преподаватель по JavaScript – Брендон Эйх.</text>
+  </DialogueLine>
+  <DialogueLine speaker="npc">
+    <text>Как сказал мой кумир и наставник, величайший из всех программистов..</text>
+  </DialogueLine>
+  <DialogueLine speaker="npc">
+    <text>..Павел Дуров</text>
+  </DialogueLine>
+  <DialogueLine speaker="npc">
+    <text>«Скорость имеет значение!»</text>
+  </DialogueLine>
+  <DialogueLine speaker="npc">
+    <text> Ближе к делу: тебе нужен зачет, мне нужно, чтобы ты меня удивил</text>
+  </DialogueLine>
+  <DialogueLine speaker="npc">
+    <text> if( I.askQuestion() ), тогда ты: return answer?</text>
+  </DialogueLine>
+  <DialogueLine speaker="npc">
+    <text>Понятно?</text>
+  </DialogueLine>
+  <DialogueLine speaker="player">
+  <text>Так точно, сэр!</text>
+  </DialogueLine>
+  <DialogueLine speaker="npc">
+    <text>Экзамен окончен, здесь тебе делать больше нечего.</text>
+  </DialogueLine>
+</dialogue>

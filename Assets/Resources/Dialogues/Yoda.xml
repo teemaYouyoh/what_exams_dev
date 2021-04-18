@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dialogue>
+  <DialogueLine speaker="npc">
+    <text>Маскировки силу применил я, комнату в зеленый покрасив..</text>
+  </DialogueLine>
+  <DialogueLine speaker="npc">
+    <text>Истории экзамен надеюсь сдать сможешь ты..</text>
+  </DialogueLine>
+  <DialogueLine speaker="player">
+    <text>Экзамен по истории Украины?</text>
+  </DialogueLine>
+  <DialogueLine speaker="npc">
+    <text>Выше брать стоит тебе, падаван..</text>
+  </DialogueLine>
+  <DialogueLine speaker="npc">
+    <text>Галактики истории экзамен..</text>
+  </DialogueLine>
+  <DialogueLine speaker="npc">
+    <text>Приступим..</text>
+  </DialogueLine>
+  <DialogueLine speaker="player">
+  <text>Постойте, это как?</text>
+  </DialogueLine>
+  <DialogueLine speaker="npc">
+    <text>Экзамен этот сдал ты, иди учителей следующих искать..</text>
+  </DialogueLine>
+</dialogue>

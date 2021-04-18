@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dialogue>
+  <DialogueLine speaker="npc">
+    <text>Ты сюда пришел не просто так..</text>
+  </DialogueLine>
+  <DialogueLine speaker="npc">
+    <text>Я чувствую.</text>
+  </DialogueLine>
+  <DialogueLine speaker="player">
+    <text>...</text>
+  </DialogueLine>
+  <DialogueLine speaker="npc">
+    <text>НА КОЛЕНИ!</text>
+  </DialogueLine>
+  <DialogueLine speaker="player">
+    <text>...</text>
+  </DialogueLine>
+
+  <DialogueLine speaker="npc">
+    <text>Готов ли ты отдать жизнь за объектно-ориентированное программирование!?</text>
+  </DialogueLine>
+  <DialogueLine speaker="player">
+  <text>Вообще-то нет..</text>
+  </DialogueLine>
+
+  <DialogueLine speaker="npc">
+    <text>Хорошо, спрошу по-другому.</text>
+  </DialogueLine>
+  <DialogueLine speaker="npc">
+    <text>Хочешь получить зачет по ООП?</text>
+  </DialogueLine>
+  <DialogueLine speaker="player">
+    <text>Конечно!</text>
+  </DialogueLine>
+
+  <DialogueLine speaker="npc">
+    <text>Тогда принеси клятву кровью!</text>
+  </DialogueLine>
+  <DialogueLine speaker="npc">
+    <text>ну.. или знаниями…</text>
+  </DialogueLine>
+  <DialogueLine speaker="player">
+    <text>Пожалуй, второй вариант</text>
+  </DialogueLine>
+
+  <DialogueLine speaker="npc">
+    <text>Будет по-твоему..</text>
+  </DialogueLine>
+  <DialogueLine speaker="npc">
+    <text>Да начнется присяга ООП!</text>
+  </DialogueLine>
+  <DialogueLine speaker="player">
+    <text>Может быть экзамен?</text>
+  </DialogueLine>
+
+  <DialogueLine speaker="npc">
+    <text>Клянешься ли ты до конца жизни кодить лишь на ООП?</text>
+  </DialogueLine>
+  <DialogueLine speaker="player">
+    <text>А что если нет?</text>
+  </DialogueLine>
+  <DialogueLine speaker="npc">
+    <text>Случится страшное! </text>
+  </DialogueLine>
+  <DialogueLine speaker="npc">
+    <text>Пересдача в следующем семестре</text>
+  </DialogueLine>
+  <DialogueLine speaker="player">
+    <text>Клянусь!</text>
+  </DialogueLine>
+
+  <DialogueLine speaker="npc">
+    <text>Твоё посвящение окончено.</text>
+  </DialogueLine>
+</dialogue>

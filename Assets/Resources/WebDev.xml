@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<questions>
+
+  <question>
+    <text>Настоящее название JavaScript?</text>
+    <answers>
+      <answer>ЭкмаСкрипт</answer>
+      <answer>ЭтоСкрипт</answer>
+      <answer>ДжаваСкрипт</answer>
+      <answer>ЖабаСкрипт</answer>
+    </answers>
+    <points>5</points>
+  </question>
+
+  <question>
+    <text>Диструктурирующее присваивание: ... обращение к полям объекта</text>
+    <answers>
+      <answer>Облегчает</answer>
+      <answer>Объеденяет</answer>
+      <answer>Разрушает</answer>
+      <answer>Усложняет</answer>
+    </answers>
+    <points>10</points>
+  </question>
+
+  <question>
+    <text>[9] меньше [10]?</text>
+    <answers>
+      <answer>false</answer>
+      <answer>true</answer>
+      <answer>underfind</answer>
+      <answer>error</answer>
+    </answers>
+    <points>5</points>
+  </question>
+
+  <question>
+    <text>Кто сказал великую цитату «Скорость имеет значение» ?</text>
+    <answers>
+      <answer>Павле Дуров</answer>
+      <answer>Джеймсон Стэттхем</answer>
+      <answer>Билл Гейтс</answer>
+      <answer>Уилл Смит</answer>
+    </answers>
+    <points>3</points>
+  </question>
+
+  <question>
+    <text>Какой твой любимый предмет?</text>
+    <answers>
+      <answer>JavaScript</answer>
+      <answer>C#</answer>
+      <answer>История</answer>
+      <answer>Другой</answer>
+    </answers>
+    <points>2</points>
+  </question>
+
+</questions>

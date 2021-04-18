@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<questions>
+
+  <question>
+    <text>Текст вопроса 1</text>
+    <answers>
+      <answer>Ответ 1</answer>
+      <answer>Ответ 2</answer>
+      <answer>Ответ 3</answer>
+      <answer>Ответ 4</answer>
+    </answers>
+    <points>5</points>
+  </question>
+
+  <phrase speaker="npc">
+    <text>Маскировки силу применил я, комнату в зеленый покрасив..</text>
+  </phrase>
+  <phrase speaker="npc">
+    <text>Истории экзамен надеюсь сдать сможешь ты..</text>
+  </phrase>
+  <phrase speaker="player">
+    <text>Экзамен по истории Украины?</text>
+  </phrase>
+
+  <question>
+    <text>Текст вопроса 2</text>
+    <answers>
+      <answer>Ответ 1</answer>
+      <answer>Ответ 2</answer>
+      <answer>Ответ 3</answer>
+      <answer>Ответ 4</answer>
+    </answers>
+    <points>10</points>
+  </question>
+
+</questions>
